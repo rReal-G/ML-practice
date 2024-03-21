@@ -1,2 +1,4 @@
 pytorch/misc_data
 data
+data-unversioned/
+__pycache__/
